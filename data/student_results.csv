@@ -1,0 +1,11 @@
+student_id,name,subject,marks,grade
+S001,Aarav,Mathematics,95,Distinction
+S002,Riya,Python,88,Distinction
+S003,Aditya,Database,82,Distinction
+S004,Neha,Computer Networks,76,Distinction
+S005,Rohan,Machine Learning,72,First Class
+S006,Priya,Operating Systems,68,First Class
+S007,Karan,Data Structures,65,First Class
+S008,Ananya,Artificial Intelligence,60,First Class
+S009,Vivek,Cloud Computing,60,First Class
+S010,Meera,Computer Architecture,37,Fail
